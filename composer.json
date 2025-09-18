@@ -1,5 +1,5 @@
 {
-    "name": "narutimateum/toastr-5.2-laravel",
+    "name": "danchikts/toastr-5.2-laravel",
     "description": "toastr.js for Laravel 5.2 easy notification like growl for example",
     "keywords": ["toastr", "notification", "laravel", "php"],
     "homepage": "https://github.com/narutimateum/toastr-5.2-laravel",
